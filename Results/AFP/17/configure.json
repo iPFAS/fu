@@ -1,0 +1,16 @@
+{
+  "batch_size": 512,
+  "dropout": 0.5250398199565279,
+  "graph_feat_size": 32,
+  "lr": 0.020436083757910017,
+  "num_layers": 3,
+  "num_timesteps": 3,
+  "patience": 640,
+  "weight_decay": 0.0020921742904940668,
+  "model": "AttentiveFP",
+  "n_tasks": 1,
+  "atom_featurizer_type": "canonical",
+  "bond_featurizer_type": "canonical",
+  "in_node_feats": 74,
+  "in_edge_feats": 13
+}
