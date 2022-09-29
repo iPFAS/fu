@@ -1,0 +1,7 @@
+acc of training set is 0.841±0.014, validation set is 0.841±0.025, test set is 0.834±0.028
+auc_roc of training set is 0.812±0.009, validation set is 0.821±0.035, test set is 0.803±0.036
+recall of training set is 0.215±0.145, validation set is 0.212±0.163, test set is 0.227±0.162
+precision of training set is 0.832±0.137, validation set is 0.806±0.210, test set is 0.767±0.220
+f1 of training set is 0.303±0.150, validation set is 0.293±0.161, test set is 0.305±0.165
+kappa of training set is 0.253±0.124, validation set is 0.244±0.138, test set is 0.252±0.141
+mcc of training set is 0.335±0.096, validation set is 0.326±0.117, test set is 0.323±0.125
