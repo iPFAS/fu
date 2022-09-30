@@ -48,9 +48,9 @@ This code is based on the following two works：
 ```
    # Similarly, the LGB operating parameters are adjusted here, including the hyper-parameters and their ranges.
       tasks_dic = {'0-CF-2274-desc-split.csv': ['activity']}
-      file_name = '0-CF-2274-desc-split.csv'  # './dataset/esol_moe_pubsubfp.csv'
+      file_name = '0-CF-2274-desc-split.csv'
       task_type = 'cla'  # 'reg' or 'cla'
-      dataset_label = file_name.split('/')[-1].split('_')[0]  # dataset_label = 'esol'
+      dataset_label = file_name.split('/')[-1].split('_')[0]  
       tasks = tasks_dic[dataset_label]
       OPT_ITERS = 50
       repetitions = 50
