@@ -3,7 +3,7 @@ This code is based on the following two works：
   * Hou's work [Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8) 
 
 ### Install dependencies　　
-　　requires python 3.6+, DGL 0.7.0+ and PyTorch 1.5.0+. For the complete code package list, please refer to the [dependencies.yaml](./dependencies.yaml)  
+　　python 3.6+, DGL 0.7.0+ and PyTorch 1.5.0+. For the complete code package list, please refer to the [dependencies.yaml](./dependencies.yaml)  
  
   ```
     Create a conda environment and install them for example by doing: 
