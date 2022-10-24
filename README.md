@@ -20,7 +20,7 @@ This code is based on the following two works：
 #### Data
 　　The data used in this study, including smiles for GNNs and descriptors for LGB, where the descriptors has been proportionally divided into training set, validation set and test set.
 #### Examples
-　　Contains the original AFP, GCN, GAT and LGB source code for this study (Code is based on the command line version). 
+　　Contains the original AFP, GCN, GAT and LGB source code for this study. 
   - **In AFP GAT GCN.ipynb**
  ```
     # Adjust the parameters here, and refer to the cell above for the description of the parameters
