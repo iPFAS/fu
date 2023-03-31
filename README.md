@@ -68,4 +68,14 @@ This code is based on the following two works：
 #### Results
 　　Contains the original AFP, GCN, GAT and LGB training results of this study, including the optimal model, hyper-parameters and summary of experimental results
   
-
+#### Cite
+　　If it helps with your research, we would appreciate citations to the following paper:
+```
+@article{cao2022investigation,
+  title={Investigation of the Binding Fraction of PFAS in Human Plasma and Underlying Mechanisms Based on Machine Learning and Molecular Dynamics Simulation},
+  author={Cao, Huiming and Peng, Jianhua and Zhou, Zhen and Yang, Zeguo and Wang, Ling and Sun, Yuzhen and Wang, Yawei and Liang, Yong},
+  journal={Environmental Science \& Technology},
+  year={2022},
+  publisher={ACS Publications}
+}
+``` 
